@@ -17,8 +17,7 @@ Maiores informações na pagina: <a href="http://algamecode.blogspot.com.br/2017
 <br><br>
 <h3>3- Next coming soon</h3><br>
 <br> <a href="http://algamecode.blogspot.com.br/"> See More </a><br>
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script>
-<script type='text/javascript'>kofiwidget2.init('Buy Me a Coffee', '#808080', 'A025ZAO');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/A025ZAO'>Buy Me a Coffee! and Help Me!</a> 
 <br>
 <a href="http://algamecode.blogspot.com"><img src="http://2.bp.blogspot.com/-Rcc_FFRL4bA/WIjkQ9G4piI/AAAAAAAACY4/jNV8o3no_YA1BL0ndWXYVQRyOWxDz11CwCK4B/s1220/cabecalhoalgc.png"/></a><br>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
